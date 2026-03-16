@@ -28,6 +28,8 @@ To write and execute an Assembly Language Program to perform the factorial of a 
 ---
 
 ### PROGRAM
+NAME - K SURYA
+REG NO - 212225060282
 ```asm
 ORG 0000H
 MOV DPTR,#4500H
